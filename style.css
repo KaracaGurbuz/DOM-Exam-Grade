@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-image: linear-gradient(rgb(96, 187, 247), rgb(216, 82, 243));
+  min-height: 100vh;
+}
+
+.form {
+  width: 80%;
+  margin: 20px auto;
+}
+
+.btn:hover {
+  transform: scale(1.1);
+  transition: 1000ms;
+}
+
+.container {
+  height: 800px;
+}
